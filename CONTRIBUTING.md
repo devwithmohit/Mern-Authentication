@@ -15,7 +15,7 @@ Thank you for your interest in contributing to MERN Advanced Auth! We welcome co
 1. Fork the repository on GitHub
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/devwithmohit/Mern-Authentication.git
+   git clone https://github.com/YOUR-USERNAME/Mern-Authentication.git
    cd mern-advanced-auth
    ```
 3. Add upstream remote:
